@@ -9,4 +9,7 @@ en cada carpeta seencuentra 5 ejecicios relacionados al formato de programacion
 
 
 
-Mateo el numero no
+Por:
+Mateo Giraldo
+Felipe Ducuara
+Diego Paez
