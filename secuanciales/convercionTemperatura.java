@@ -1,7 +1,7 @@
 package secuenciales;
 import java.util.Scanner;
 
-public class conVercion {
+public class convercionTemperatura {
 
     public static void main(String[] args) {
 

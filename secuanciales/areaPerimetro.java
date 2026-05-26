@@ -2,7 +2,7 @@ package secuenciales;
 
 import java.util.Scanner;
 
-public class area {
+public class areaPerimetro {
 
     public static void main(String[] args) {
 

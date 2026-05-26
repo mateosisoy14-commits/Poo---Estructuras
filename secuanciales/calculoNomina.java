@@ -2,7 +2,7 @@ package secuenciales;
 
 import java.util.Scanner;
 
-public class calculo {
+public class calculoNomina {
 
     public static void main(String[] args) {
 
